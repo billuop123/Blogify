@@ -1,0 +1,8 @@
+{
+  "name": "@billu123/common-medium",
+  "main": "dist/index.js",
+  "version": "1.0.0",
+  "dependencies": {
+    "zod": "^3.23.8"
+  }
+}
